@@ -1,4 +1,4 @@
 This is the repo for my IT assignment
 -note
-Home.zip is the wrong file, its the one without any comments.
-The correct file for KNN is Home.zip1
+home.zip is the wrong file, its the one without any comments.
+The correct file for KNN is home(1).zip
